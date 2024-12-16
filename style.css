@@ -1,3 +1,251 @@
+<style>
+  @
+
+  @font-face {
+    font-family: "MapoDac
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.wo
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDac
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/Map
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_20
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfont
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noon
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoo
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projec
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/pr
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.js
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fas
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https:/
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("htt
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("w
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "Maru
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri/MaruBuri-Regular.woff
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri/MaruBuri-Regular
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri/Maru
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul_stati
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul_st
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hange
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri/MaruBuri-Regular.woff2")
+      format("woff
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri/MaruBuri-Regular.woff2")
+      format("woff2");
+  }
+
+  .dacapo {
+    font-family: "Mapo
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri/MaruBuri-Regular.woff2")
+      format("woff2");
+  }
+
+  .dacapo {
+    font-family: "MapoDacapo", sans-serif;
+  }
+
+  .maruburi {
+    font-family: "MaruBuri
+
+  @font-face {
+    font-family: "MapoDacapo";
+    src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+      format("woff");
+  }
+  @font-face {
+    font-family: "MaruBuri";
+    src: url("https://hangeul.pstatic.net/hangeul_static/webfont/MaruBuri/MaruBuri-Regular.woff2")
+      format("woff2");
+  }
+
+  .dacapo {
+    font-family: "MapoDacapo", sans-serif;
+  }
+
+  .maruburi {
+    font-family: "MaruBuri", sans-serif;
+  }
+</style>
+<body>
+  
+  <
+<p class="dacapo">이 문장은 MapoDacapo 글꼴로 표시됩니다.</p>
+  <p class="maruburi">이 문장은 MaruBuri 글꼴로 표시됩니다.</p>
+</body>
 .frame-2,
 .frame-2 * {
   box-sizing: border-box;
